@@ -1,3 +1,4 @@
+// document.querySelector("main#main").remove();
 main.remove();
 
 const newHeader = document.createElement('h1');
